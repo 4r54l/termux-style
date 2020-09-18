@@ -15,13 +15,17 @@
 </br>
 </p>
 
-
-![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
-
-
 ## How To It?
 ```php
 $ cd termux-style
 $ git pull
 $ python2 run.py
 ```
+
+![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
+
+## Support Me On
+<b>- [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<br>
+<b>- [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+</br>
