@@ -15,6 +15,10 @@
 </br>
 </p>
 
+----------
+![Gpp Jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
+----------
+
 ## How To It?
 ```php
 $ cd termux-style
