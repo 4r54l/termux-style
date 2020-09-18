@@ -1,7 +1,7 @@
 # Termux Style
 <a href="#"><img title="Author by Sanz" src="https://img.shields.io/badge/coded-Sanz-orange?"></a>
 <a href="#"><img title="Author by Sanz" src="https://img.shields.io/badge/python-2.7-blue?"></a>
-<!- yahaha
+![ Hay Bang Jago Mau Rikod Ya >_< ]
 <a href="https://github.com/B4N954N2-ID/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/B4N954N2-ID?color=blue&style=flat-square"></a>
 <a href="https://github.com/B4N954N2-ID/termux-style/stargazers/">
