@@ -1,5 +1,5 @@
 <h1 align="center">
-  New Script Termux Style
+  Termux Style
 </h1>
 <p align="center">
 <a href="#"><img title="Author by Sanz" src="https://img.shields.io/badge/Coded%20By-Sanz-orange?"></a>
