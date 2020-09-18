@@ -1,4 +1,6 @@
-# Termux Style
+<h1 align="center">
+  Termux Style
+</h1>
 <p align="center">
 <a href="#"><img title="Author by Sanz" src="https://img.shields.io/badge/Coded%20By-Sanz-orange?"></a>
 <a href="#"><img title="Author by Sanz" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
