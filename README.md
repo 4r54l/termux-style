@@ -1,4 +1,5 @@
 # Termux Style
+align="center"
 ![CDNJS](https://img.shields.io/badge/coded-Sanz-orange) ![CDNJS](https://img.shields.io/badge/python-2.7-blue)
 <br>
 <a href="https://github.com/B4N954N2-ID/followers">
