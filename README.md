@@ -19,8 +19,11 @@
 ```php
 $ cd termux-style
 $ git pull
+$ pip2 install -r requirements.txt
 $ python2 run.py
 ```
+
+> Get key [click here](https://bit.ly/2ZVK5ZB)
 
 ![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
 
@@ -29,3 +32,5 @@ $ python2 run.py
 <br>
 <b>- [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
 </br>
+<!-- Wih Bang jago klik raw pasti mau copas ya >_<
+<!-- Jangan di copas donk anyink :v
