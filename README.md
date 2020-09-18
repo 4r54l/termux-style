@@ -14,3 +14,11 @@
 <a href="https://github.com/B4N954N2-ID/termux-style/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/B4N954N2-ID/termux-style?label=Watchers&color=blue&style=flat-square"></a>
 </br>
 </p>
+<h2 How To It?>
+</h2>
+```php
+$ cd termux-style
+$ git pull
+$ python2 run.py
+```
+
