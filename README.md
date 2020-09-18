@@ -14,7 +14,8 @@
 <a href="https://github.com/B4N954N2-ID/termux-style/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/B4N954N2-ID/termux-style?label=Watchers&color=blue&style=flat-square"></a>
 </br>
 </p>
-----------
+
+
 ![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
 
 
