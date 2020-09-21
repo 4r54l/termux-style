@@ -23,7 +23,7 @@ $ pip2 install -r requirements.txt
 $ python2 run.py
 ```
 
-> Get key [click here](https://bit.ly/2ZVK5ZB)
+> Get key [click here](https://bit.ly/2FH0nyy)
 
 ![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/B4N954N2-ID/termux-style/blob/master/.termux-style.png?raw=true)
 
